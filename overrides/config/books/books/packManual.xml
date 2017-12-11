@@ -1,0 +1,71 @@
+<book title="Infomation about the Pack">
+  <include ref="gbook:xml/standard.xml" />
+  
+<chapter>
+ <page>
+    <title>Index</title>
+     <link ref="intro">1. Welcome To Odyssey Of the Stars</link>
+     <link indent="8" ref="intro:changes">1.1 Changes to Vanilla</link>
+     <link indent="8" ref="gettingStarted">2 Getting Started</link>
+
+ </page>
+</chapter>
+
+<chapter id="intro">
+  <page>
+    <title>Welcome To Odyssey Of the Stars</title>
+    <p>
+        You are holding the in game manual that informs you what is diffrent from Vanilla Minecraft and how I think it's best to learn the mods in this pack. 
+        
+    </p>
+  </page>
+  
+  <page id="changes">
+    <title>Differences from Vanilla</title>
+    <p bold="true" align="center">Spawn Point</p>
+    <p>To give you time to learn the pack, there will be no monsters spawning on the surface at night near spawn.</p>
+    <p bold="true" align="center">Punching trees</p>
+    <p>
+    Punching trees will not give you a log. 
+    Instead you will gain only one plank, sawdust and bark. You will need to craft an Axe to harvest Logs. Use an Axe in the crafting grid to cut a log into three planks.
+    </p>
+    <p align="center">
+    You can use the sawdust, and bark to cook things.
+    </p>
+  </page>
+  <page>
+    <p bold="true" align="center">Food</p>
+    <p>Eating the same thing over and over will give you fewer and fewer hunger restored each time.
+    Luckly there is a lot more food items added. you will need a large farm to grow all of the crops.
+    </p>
+    <p>If you are really desperate for food, I'm sure you can dig up something to eat.</p>
+    <p bold="true" align="center">Charcoal</p>
+    <p>The furnace doesn't get hot enough to make charcoal from logs. Starting out you should make a <link ref="https://forestryforminecraft.info/other:charcoalpit">Charcoal Pit</link>. Let that cook up so you can make plenty of torches.
+    </p>
+  </page>
+  <page id="started">
+    <title>Getting Started</title>
+    
+  </page>
+  <page>
+    <title>A new set of tools</title>
+  </page>
+  
+  <page id="food">
+    <title>Food is the Spice of Life</title>
+  </page>
+  
+  <page>
+    <title>Making friends on the farm</title>
+  </page>
+</chapter>
+
+<chapter id="progression">
+  <page>
+    <title>Progression</title>
+  </page>
+</chapter>
+<template id="nzlist">
+    <element index="0" indent="10" />
+</template>
+</book>

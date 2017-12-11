@@ -1,0 +1,1061 @@
+{
+ "files": [
+  {
+   "desc": "Immersive Engineering",
+   "fileID": 2501821,
+   "filename": "ImmersiveEngineering-0.12-75.jar",
+   "projectID": 231951,
+   "required": true
+  },
+  {
+   "desc": "Extra Utilities",
+   "fileID": 2504264,
+   "filename": "extrautils2-1.12-1.6.8.jar",
+   "projectID": 225561,
+   "required": true
+  },
+  {
+   "desc": "Advanced Chimneys",
+   "fileID": 2505797,
+   "filename": "AdChimneys-1.12.1-3.2.1.0-build.0056.jar",
+   "projectID": 244830,
+   "required": true
+  },
+  {
+   "desc": "Advanced Rocketry",
+   "fileID": 2507960,
+   "filename": "AdvancedRocketry-1.12.2-1.2.6-4.jar",
+   "projectID": 236542,
+   "required": true
+  },
+  {
+   "desc": "Animania",
+   "fileID": 2501725,
+   "filename": "animania-1.12.2-1.4.2.jar",
+   "projectID": 261199,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "AppleSkin",
+   "fileID": 2496585,
+   "filename": "AppleSkin-mc1.12-1.0.9.jar",
+   "projectID": 248787,
+   "required": true
+  },
+  {
+   "desc": "Astral Sorcery",
+   "fileID": 2506796,
+   "filename": "astralsorcery-1.12.2-1.8.3.jar",
+   "projectID": 241721,
+   "required": true
+  },
+  {
+   "desc": "Bad Wither No Cookie - Reloaded",
+   "fileID": 2496777,
+   "filename": "badwithernocookiereloaded-1.12.2-2.12.jar",
+   "projectID": 261251,
+   "required": true
+  },
+  {
+   "desc": "Baubles",
+   "fileID": 2459083,
+   "filename": "Baubles-1.12-1.5.1.jar",
+   "projectID": 227083,
+   "required": true
+  },
+  {
+   "desc": "Bedrock Ores",
+   "fileID": 2495091,
+   "filename": "Bedrock-Ores-MC1.12-1.2.5.38.jar",
+   "projectID": 275083,
+   "required": true
+  },
+  {
+   "desc": "BetterFps",
+   "fileID": 2483393,
+   "filename": "BetterFps-1.4.8.jar",
+   "projectID": 229876,
+   "required": true
+  },
+  {
+   "desc": "Better Underground",
+   "fileID": 2507885,
+   "filename": "betterunderground-1.0.6.jar",
+   "projectID": 271950,
+   "required": true
+  },
+  {
+   "desc": "Better With Addons",
+   "fileID": 2493470,
+   "filename": "Better-With-Addons-0.29hotfix.jar",
+   "projectID": 268326,
+   "required": true
+  },
+  {
+   "desc": "Better With Mods",
+   "fileID": 2488833,
+   "filename": "BetterWithMods-1.12-2.0.14.jar",
+   "projectID": 246760,
+   "required": true
+  },
+  {
+   "desc": "BiblioCraft",
+   "fileID": 2456043,
+   "filename": "BiblioCraft[v2.4.3][MC1.12.0].jar",
+   "projectID": 228027,
+   "required": true
+  },
+  {
+   "desc": "Binnie's Mods",
+   "fileID": 2507031,
+   "filename": "binnie-mods-1.12.2-2.5.0.106.jar",
+   "projectID": 223525,
+   "required": true
+  },
+  {
+   "desc": "Birds Nests",
+   "fileID": 2492043,
+   "filename": "BirdsNests1.12.2-2.0.0.jar",
+   "projectID": 250466,
+   "required": true
+  },
+  {
+   "desc": "Blockcraftery",
+   "fileID": 2485336,
+   "filename": "blockcraftery-0.1.3.jar",
+   "projectID": 278882,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "Blur",
+   "fileID": 2460821,
+   "filename": "Blur-1.0.4-14.jar",
+   "projectID": 268324,
+   "required": true
+  },
+  {
+   "desc": "Ceramics",
+   "fileID": 2489278,
+   "filename": "Ceramics-1.12-1.3.3b.jar",
+   "projectID": 250617,
+   "required": true
+  },
+  {
+   "desc": "Chisel",
+   "fileID": 2479333,
+   "filename": "Chisel-MC1.12-0.0.14.18.jar",
+   "projectID": 235279,
+   "required": true
+  },
+  {
+   "desc": "Chisels \u0026 Bits",
+   "fileID": 2506644,
+   "filename": "chiselsandbits-14.11.jar",
+   "projectID": 231095,
+   "required": true
+  },
+  {
+   "desc": "Chunk-Pregenerator",
+   "fileID": 2503584,
+   "filename": "Chunk-Pregenerator-V1.12-1.5.1.jar",
+   "projectID": 267193,
+   "required": true
+  },
+  {
+   "desc": "Client Tweaks",
+   "fileID": 2458010,
+   "filename": "ClientTweaks_1.12-3.1.2.jar",
+   "projectID": 251407,
+   "required": true
+  },
+  {
+   "desc": "Clumps",
+   "fileID": 2458862,
+   "filename": "Clumps-3.0.0.jar",
+   "projectID": 256717,
+   "required": true
+  },
+  {
+   "desc": "ModTweaker",
+   "fileID": 2498616,
+   "filename": "modtweaker-4.0.5.jar",
+   "projectID": 220954,
+   "required": true
+  },
+  {
+   "desc": "CraftTweaker",
+   "fileID": 2501290,
+   "filename": "CraftTweaker2-1.12-4.0.10.jar",
+   "projectID": 239197,
+   "required": true
+  },
+  {
+   "desc": "ContentTweaker",
+   "fileID": 2491947,
+   "filename": "ContentTweaker-1.12-4.2.0.jar",
+   "projectID": 237065,
+   "required": true
+  },
+  {
+   "desc": "Controlling",
+   "fileID": 2497510,
+   "filename": "Controlling-3.0.4.jar",
+   "projectID": 250398,
+   "required": true
+  },
+  {
+   "desc": "Cooking for Blockheads",
+   "fileID": 2503873,
+   "filename": "CookingForBlockheads_1.12.1-6.3.17.jar",
+   "projectID": 231484,
+   "required": true
+  },
+  {
+   "desc": "Crafting Tweaks",
+   "fileID": 2489633,
+   "filename": "CraftingTweaks_1.12.1-8.1.6.jar",
+   "projectID": 233071,
+   "required": true
+  },
+  {
+   "desc": "Cyclic",
+   "fileID": 2506357,
+   "filename": "Cyclic-1.12.2-1.10.3.jar",
+   "projectID": 239286,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "Default Options",
+   "fileID": 2462243,
+   "filename": "DefaultOptions_1.12.1-9.2.4.jar",
+   "projectID": 232131,
+   "required": true
+  },
+  {
+   "desc": "Default World Generator (port)",
+   "fileID": 2499252,
+   "filename": "DefaultWorldGenerator-port-1.12-2.3.jar",
+   "projectID": 241140,
+   "required": true
+  },
+  {
+   "desc": "Diet Hoppers",
+   "fileID": 2482543,
+   "filename": "diethopper-1.1.jar",
+   "projectID": 278385,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "Ding",
+   "fileID": 2476271,
+   "filename": "Ding-1.12.1-1.0.1.jar",
+   "projectID": 231275,
+   "required": true
+  },
+  {
+   "desc": "The Beneath",
+   "fileID": 2489848,
+   "filename": "The-Beneath-1.12.2-1.3.0.jar",
+   "projectID": 254629,
+   "required": true
+  },
+  {
+   "desc": "The Twilight Forest",
+   "fileID": 2505472,
+   "filename": "twilightforest-1.12.2-3.5.263-universal.jar",
+   "projectID": 227639,
+   "required": true
+  },
+  {
+   "desc": "Durability Show",
+   "fileID": 2432683,
+   "filename": "Durability-Show-1.12-5.0.0.jar",
+   "projectID": 226099,
+   "required": true
+  },
+  {
+   "desc": "Earthworks",
+   "fileID": 2485858,
+   "filename": "Earthworks-1.12-1.3.5.jar",
+   "projectID": 255427,
+   "required": true
+  },
+  {
+   "desc": "Edible Bugs",
+   "fileID": 2497196,
+   "filename": "ediblebugs-mc1.12.2_eb1.6.0.2512.jar",
+   "projectID": 246129,
+   "required": true
+  },
+  {
+   "desc": "OpenBlocks Elevator",
+   "fileID": 2494729,
+   "filename": "ElevatorMod-1.12.2-1.3.5.jar",
+   "projectID": 250832,
+   "required": true
+  },
+  {
+   "desc": "Embers",
+   "fileID": 2495586,
+   "filename": "embers-0.230.jar",
+   "projectID": 251918,
+   "required": true
+  },
+  {
+   "desc": "Lapis Stays in the Enchanting Table",
+   "fileID": 2460192,
+   "filename": "EnchantingTable-1.12-1.1.2.jar",
+   "projectID": 263905,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "Enchantment Descriptions",
+   "fileID": 2452237,
+   "filename": "EnchantmentDescriptions-1.12-1.0.4.jar",
+   "projectID": 250419,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "EnhancedVisuals",
+   "fileID": 2491100,
+   "filename": "EnhancedVisuals-v1.1.4-mc1.12.2.jar",
+   "projectID": 255389,
+   "required": true
+  },
+  {
+   "desc": "Exchangers",
+   "fileID": 2497446,
+   "filename": "Exchangers-1.12-2.5.2.jar",
+   "projectID": 270183,
+   "required": true
+  },
+  {
+   "desc": "Farming for Blockheads",
+   "fileID": 2468274,
+   "filename": "FarmingForBlockheads_1.12-3.1.5.jar",
+   "projectID": 261924,
+   "required": true
+  },
+  {
+   "desc": "Fast Leaf Decay",
+   "fileID": 2463272,
+   "filename": "FastLeafDecay-v14.jar",
+   "projectID": 230976,
+   "required": true
+  },
+  {
+   "desc": "Forestry",
+   "fileID": 2504953,
+   "filename": "forestry_1.12.2-5.7.0.214.jar",
+   "projectID": 59751,
+   "required": true
+  },
+  {
+   "desc": "FTBLib",
+   "fileID": 2505841,
+   "filename": "FTBLib-4.2.5.jar",
+   "projectID": 237167,
+   "required": true
+  },
+  {
+   "desc": "FTB Utilities",
+   "fileID": 2505842,
+   "filename": "FTBUtilities-4.2.4.jar",
+   "projectID": 237102,
+   "required": true
+  },
+  {
+   "desc": "Garden Stuff",
+   "fileID": 2450390,
+   "filename": "GardenStuff-1.12-2.0.0.jar",
+   "projectID": 225903,
+   "required": true
+  },
+  {
+   "desc": "Guide-API",
+   "fileID": 2466858,
+   "filename": "Guide-API-1.12-2.1.4-57.jar",
+   "projectID": 228832,
+   "required": true
+  },
+  {
+   "desc": "Hwyla",
+   "fileID": 2506337,
+   "filename": "Hwyla-1.8.23-B38_1.12.jar",
+   "projectID": 253449,
+   "required": true
+  },
+  {
+   "desc": "Immersive Petroleum",
+   "fileID": 2505215,
+   "filename": "immersivepetroleum-1.12.2-1.1.5.jar",
+   "projectID": 268250,
+   "required": true
+  },
+  {
+   "desc": "In Control!",
+   "fileID": 2505989,
+   "filename": "incontrol-1.12-3.6.3.jar",
+   "projectID": 257356,
+   "required": true
+  },
+  {
+   "desc": "Integrated Dynamics",
+   "fileID": 2499714,
+   "filename": "IntegratedDynamics-1.12.2-0.9.6.jar",
+   "projectID": 236307,
+   "required": true
+  },
+  {
+   "desc": "JEI Integration",
+   "fileID": 2491927,
+   "filename": "jeiintegration_1.12.2-1.5.1.36.jar",
+   "projectID": 265917,
+   "required": true
+  },
+  {
+   "desc": "Just Enough Resources (JER)",
+   "fileID": 2502563,
+   "filename": "JustEnoughResources-1.12.2-0.8.6.33.jar",
+   "projectID": 240630,
+   "required": true
+  },
+  {
+   "desc": "Just Enough Pattern Banners",
+   "fileID": 2455920,
+   "filename": "jepb-1.12-1.2.1.jar",
+   "projectID": 263590,
+   "required": true
+  },
+  {
+   "desc": "Just Enough Items (JEI)",
+   "fileID": 2507874,
+   "filename": "jei_1.12.2-4.8.5.135.jar",
+   "projectID": 238222,
+   "required": true
+  },
+  {
+   "desc": "JEI Bees",
+   "fileID": 2490058,
+   "filename": "jeibees-0.9.0.5-mc1.12.2.jar",
+   "projectID": 248370,
+   "required": true
+  },
+  {
+   "desc": "JourneyMap",
+   "fileID": 2498312,
+   "filename": "journeymap-1.12.2-5.5.2.jar",
+   "projectID": 32274,
+   "required": true
+  },
+  {
+   "desc": "Level Up!",
+   "fileID": 2507439,
+   "filename": "Level-Up!-2-1.1.13-1.12.jar",
+   "projectID": 251136,
+   "required": true
+  },
+  {
+   "desc": "LootTweaker",
+   "fileID": 2504521,
+   "filename": "LootTweaker-1.12-0.0.6.5.jar",
+   "projectID": 255257,
+   "required": true
+  },
+  {
+   "desc": "Magical Psi",
+   "fileID": 2506619,
+   "filename": "MagicalPsi-1.3.jar",
+   "projectID": 280893,
+   "required": true
+  },
+  {
+   "desc": "Minecolonies",
+   "fileID": 2507681,
+   "filename": "minecolonies-universal-1.12.2-0.8.5930.jar",
+   "projectID": 245506,
+   "required": true
+  },
+  {
+   "desc": "Modular Machinery",
+   "fileID": 2504736,
+   "filename": "modularmachinery-1.7.1.jar",
+   "projectID": 270790,
+   "required": true
+  },
+  {
+   "desc": "Modular Diversity",
+   "fileID": 2498862,
+   "filename": "Modular-Diversity-0.1hotfix.jar",
+   "projectID": 280506,
+   "required": true
+  },
+  {
+   "desc": "Morpheus",
+   "fileID": 2432272,
+   "filename": "Morpheus-1.12-3.3.2.jar",
+   "projectID": 69118,
+   "required": true
+  },
+  {
+   "desc": "Morph-o-Tool",
+   "fileID": 2475117,
+   "filename": "Morph-o-Tool-1.2-16.jar",
+   "projectID": 245287,
+   "required": true
+  },
+  {
+   "desc": "MultiStorage",
+   "fileID": 2503501,
+   "filename": "multistorage-1.12.0-1.4.7.jar",
+   "projectID": 244864,
+   "required": true
+  },
+  {
+   "desc": "NetherEx",
+   "fileID": 2506216,
+   "filename": "NetherEx-1.12-2.1.14.15.jar",
+   "projectID": 248039,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "NoNausea",
+   "fileID": 2432422,
+   "filename": "NoNausea-MC1.12-1.0.jar",
+   "projectID": 226035,
+   "required": true
+  },
+  {
+   "desc": "OpenComputers",
+   "fileID": 2490748,
+   "filename": "OpenComputers-MC1.12.1-1.7.0.20.jar",
+   "projectID": 223008,
+   "required": true
+  },
+  {
+   "desc": "OC Sensors",
+   "fileID": 2466745,
+   "filename": "ocsensors-1.0.2-b12.jar",
+   "projectID": 269054,
+   "required": true
+  },
+  {
+   "desc": "Open Glider",
+   "fileID": 2464501,
+   "filename": "OpenGlider-1.12.1-1.1.0.jar",
+   "projectID": 252354,
+   "required": true
+  },
+  {
+   "desc": "Packing Tape",
+   "fileID": 2448178,
+   "filename": "PackingTape-1.12.0-0.7.4.jar",
+   "projectID": 238659,
+   "required": true
+  },
+  {
+   "desc": "Pam's HarvestCraft",
+   "fileID": 2488307,
+   "filename": "Pams-HarvestCraft-1.12.2a.jar",
+   "projectID": 221857,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "Waila Harvestability",
+   "fileID": 2481605,
+   "filename": "WailaHarvestability-mc1.12-1.1.12.jar",
+   "projectID": 79287,
+   "required": true
+  },
+  {
+   "desc": "Platforms",
+   "fileID": 2490802,
+   "filename": "platforms-1.12.0-1.4.1.jar",
+   "projectID": 244786,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "Painting Selection Gui Revamped",
+   "fileID": 2454132,
+   "filename": "PSG-Revamed-1.12-1.0.0.0.jar",
+   "projectID": 252043,
+   "required": true
+  },
+  {
+   "desc": "Psi",
+   "fileID": 2499167,
+   "filename": "Psi-r1.1-59.jar",
+   "projectID": 241665,
+   "required": true
+  },
+  {
+   "desc": "Quark",
+   "fileID": 2507951,
+   "filename": "Quark-r1.4-120.jar",
+   "projectID": 243121,
+   "required": true
+  },
+  {
+   "desc": "Recurrent Complex",
+   "fileID": 2499589,
+   "filename": "RecurrentComplex-1.4.6.jar",
+   "projectID": 223150,
+   "required": true
+  },
+  {
+   "desc": "Redstone Flux",
+   "fileID": 2448933,
+   "filename": "RedstoneFlux-1.12-2.0.1.2-universal.jar",
+   "projectID": 270789,
+   "required": true
+  },
+  {
+   "desc": "Resource Loader",
+   "fileID": 2477566,
+   "filename": "ResourceLoader-MC1.12.1-1.5.3.jar",
+   "projectID": 226447,
+   "required": true
+  },
+  {
+   "desc": "Roguelike Dungeons",
+   "fileID": 2492586,
+   "filename": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+   "projectID": 221585,
+   "required": true
+  },
+  {
+   "desc": "Roots",
+   "fileID": 2481157,
+   "filename": "roots-2-0.103.jar",
+   "projectID": 246183,
+   "required": true
+  },
+  {
+   "desc": "Rustic",
+   "fileID": 2479117,
+   "filename": "rustic-0.4.3.jar",
+   "projectID": 256141,
+   "required": true
+  },
+  {
+   "desc": "Scannable",
+   "fileID": 2485237,
+   "filename": "Scannable-MC1.12-1.6.2.13.jar",
+   "projectID": 266784,
+   "required": true
+  },
+  {
+   "desc": "Similsax Transtructors",
+   "fileID": 2443577,
+   "filename": "SimilsaxTranstructors-1.12-1.0.22.jar",
+   "projectID": 233659,
+   "required": true
+  },
+  {
+   "desc": "Simple Corn",
+   "fileID": 2488509,
+   "filename": "SimpleCorn1.12-2.3.5.jar",
+   "projectID": 246761,
+   "required": true
+  },
+  {
+   "desc": "Soot",
+   "fileID": 2499889,
+   "filename": "Soot-0.4hotfix.jar",
+   "projectID": 281528,
+   "required": true
+  },
+  {
+   "desc": "Spawn Temple",
+   "fileID": 2489992,
+   "filename": "SpawnTemple-v.2.1-mc1.12.jar",
+   "projectID": 275538,
+   "required": true
+  },
+  {
+   "desc": "The Spice of Life",
+   "fileID": 2486848,
+   "filename": "SpiceOfLife-mc1.12-1.3.11.jar",
+   "projectID": 220811,
+   "required": true
+  },
+  {
+   "desc": "Stalker Creepers",
+   "fileID": 2468186,
+   "filename": "StalkerCreepers-1.12.1.jar",
+   "projectID": 227886,
+   "required": true
+  },
+  {
+   "desc": "Steve's Carts Reborn",
+   "fileID": 2497458,
+   "filename": "StevesCarts-1.12.2-2.4.12.62.jar",
+   "projectID": 253462,
+   "required": true
+  },
+  {
+   "desc": "SwingThroughGrass",
+   "fileID": 2507975,
+   "filename": "stg-1.12.2-1.2.2.jar",
+   "projectID": 264353,
+   "required": true
+  },
+  {
+   "desc": "Storage Drawers",
+   "fileID": 2484308,
+   "filename": "StorageDrawers-1.12.1-5.3.3.jar",
+   "projectID": 223852,
+   "required": true
+  },
+  {
+   "desc": "Tinkers Construct",
+   "fileID": 2507737,
+   "filename": "TConstruct-1.12-2.8.0.45.jar",
+   "projectID": 74072,
+   "required": true
+  },
+  {
+   "desc": "Tinkers' Complement",
+   "fileID": 2467179,
+   "filename": "TinkersComplement-1.12.1-0.2.1.jar",
+   "projectID": 272671,
+   "required": true
+  },
+  {
+   "desc": "Tiny Progressions",
+   "fileID": 2489292,
+   "filename": "tinyprogressions-1.12-3.2.10---Beta.jar",
+   "projectID": 250850,
+   "required": true
+  },
+  {
+   "desc": "TIS-3D",
+   "fileID": 2490981,
+   "filename": "TIS-3D-MC1.12-1.3.0.15.jar",
+   "projectID": 238603,
+   "required": true
+  },
+  {
+   "desc": "Toast Control",
+   "fileID": 2489435,
+   "filename": "Toast-Control-1.12-1.2.0.jar",
+   "projectID": 271740,
+   "required": true
+  },
+  {
+   "desc": "Tool Belt",
+   "fileID": 2461671,
+   "filename": "ToolBelt-1.12.0-1.7.1.jar",
+   "projectID": 260262,
+   "required": true
+  },
+  {
+   "desc": "Trumpet Skeleton",
+   "fileID": 2494241,
+   "filename": "trumpetskeleton-1.12-1.0.1.1.jar",
+   "projectID": 279311,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "Unicode Font Extension",
+   "fileID": 2499172,
+   "filename": "UnicodeFontExtension-1.12.2-2.5.jar",
+   "projectID": 279563,
+   "required": true
+  },
+  {
+   "desc": "UniDict",
+   "fileID": 2506508,
+   "filename": "UniDict-1.12.2-1.5.jar",
+   "projectID": 244258,
+   "required": true
+  },
+  {
+   "desc": "Vials",
+   "fileID": 2495293,
+   "filename": "Vials-MC1.12-1.2.1.2.jar",
+   "projectID": 269083,
+   "required": true
+  },
+  {
+   "desc": "Village Names",
+   "fileID": 2496169,
+   "filename": "VillageNames-1.12.2-2.0.jar",
+   "projectID": 259230,
+   "required": true
+  },
+  {
+   "desc": "Villager Market",
+   "fileID": 2448240,
+   "filename": "villagermarket-0.2-HF.jar",
+   "projectID": 261505,
+   "required": true
+  },
+  {
+   "desc": "V-Tweaks",
+   "fileID": 2491024,
+   "filename": "VTweaks-1.12.2-1.4.12b.jar",
+   "projectID": 238048,
+   "required": true
+  },
+  {
+   "desc": "Waddles",
+   "fileID": 2481603,
+   "filename": "Waddles-1.12.2-0.5.6.jar",
+   "projectID": 251767,
+   "required": true
+  },
+  {
+   "desc": "Waystones",
+   "fileID": 2489635,
+   "filename": "Waystones_1.12.1-4.0.17.jar",
+   "projectID": 245755,
+   "required": true
+  },
+  {
+   "desc": "Welcome to the Jungle",
+   "fileID": 2492964,
+   "filename": "Welcome-To-The-Jungle-1.011.1222.jar",
+   "projectID": 246895,
+   "required": true
+  },
+  {
+   "desc": "ForgeEndertech",
+   "fileID": 2505792,
+   "filename": "ForgeEndertech-1.12.1-4.3.0.0-build.0056.jar",
+   "projectID": 244844,
+   "required": true
+  },
+  {
+   "desc": "LibVulpes",
+   "fileID": 2508026,
+   "filename": "LibVulpes-1.12.2-0.2.7-19-universal.jar",
+   "projectID": 236541,
+   "required": true
+  },
+  {
+   "desc": "CraftStudio API",
+   "fileID": 2480954,
+   "filename": "CraftStudio-1.0.0.93-mc1.12-alpha.jar",
+   "projectID": 268704,
+   "required": true
+  },
+  {
+   "desc": "EluLib",
+   "fileID": 2506916,
+   "filename": "elulib-0.1.11.jar",
+   "projectID": 277064,
+   "required": true
+  },
+  {
+   "desc": "B.A.S.E",
+   "fileID": 2493522,
+   "filename": "base-1.12-3.4.2.jar",
+   "projectID": 246996,
+   "required": true
+  },
+  {
+   "desc": "WanionLib",
+   "fileID": 2504333,
+   "filename": "WanionLib-1.12.2-1.3.jar",
+   "projectID": 253043,
+   "required": true
+  },
+  {
+   "desc": "Mantle",
+   "fileID": 2474052,
+   "filename": "Mantle-1.12-1.3.1.21.jar",
+   "projectID": 74924,
+   "required": true
+  },
+  {
+   "desc": "Chameleon",
+   "fileID": 2450900,
+   "filename": "Chameleon-1.12-4.1.3.jar",
+   "projectID": 230497,
+   "required": true
+  },
+  {
+   "desc": "Reborn Core",
+   "fileID": 2505424,
+   "filename": "RebornCore-1.12.2-3.5.1.166-universal.jar",
+   "projectID": 237903,
+   "required": true
+  },
+  {
+   "desc": "AppleCore",
+   "fileID": 2504535,
+   "filename": "AppleCore-mc1.12.2-3.0.0.jar",
+   "projectID": 224472,
+   "required": true
+  },
+  {
+   "desc": "AutoRegLib",
+   "fileID": 2497562,
+   "filename": "AutoRegLib-1.3-15.jar",
+   "projectID": 250363,
+   "required": true
+  },
+  {
+   "desc": "MTLib",
+   "fileID": 2491141,
+   "filename": "MTLib-3.0.1.jar",
+   "projectID": 253211,
+   "required": true
+  },
+  {
+   "desc": "Cyclops Core",
+   "fileID": 2499675,
+   "filename": "CyclopsCore-1.12.2-0.10.23.jar",
+   "projectID": 232758,
+   "required": true
+  },
+  {
+   "desc": "Common Capabilities",
+   "fileID": 2467504,
+   "filename": "CommonCapabilities-1.12-1.4.0.jar",
+   "projectID": 247007,
+   "required": true
+  },
+  {
+   "desc": "IvToolkit",
+   "fileID": 2443253,
+   "filename": "IvToolkit-1.3.3-1.12.jar",
+   "projectID": 224535,
+   "required": true
+  },
+  {
+   "desc": "ShetiPhianCore",
+   "fileID": 2502305,
+   "filename": "shetiphiancore-1.12.0-3.5.5.jar",
+   "projectID": 71738,
+   "required": true
+  },
+  {
+   "desc": "Comforts",
+   "fileID": 2504176,
+   "filename": "comforts-1.12.2-1.1.0.jar",
+   "projectID": 276951,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "ConnectedTexturesMod",
+   "fileID": 2485010,
+   "filename": "CTM-MC1.12-0.2.3.9.jar",
+   "projectID": 267602,
+   "required": true
+  },
+  {
+   "desc": "TorchMaster",
+   "fileID": 2489361,
+   "filename": "torchmaster_1.12.2-1.6.1.53.jar",
+   "projectID": 254268,
+   "required": true
+  },
+  {
+   "desc": "Traverse",
+   "fileID": 2478137,
+   "filename": "Traverse-1.12.1-1.3.1.jar",
+   "projectID": 267769,
+   "required": true
+  },
+  {
+   "desc": "Applied Energistics 2",
+   "fileID": 2503759,
+   "filename": "appliedenergistics2-rv5-stable-3.jar",
+   "projectID": 223794,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "Better Advancements",
+   "fileID": 2504151,
+   "filename": "BetterAdvancements-1.12.2-0.0.5.17.jar",
+   "projectID": 272515,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "Smart HUD",
+   "fileID": 2443261,
+   "filename": "smarthud-1.12-1.0.4.jar",
+   "projectID": 270539,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "No Auto Jump",
+   "fileID": 2500889,
+   "filename": "NoAutoJump-1.12-1.0.jar",
+   "projectID": 282099,
+   "required": true
+  },
+  {
+   "desc": "RTFM",
+   "fileID": 2463584,
+   "filename": "RTFM-MC1.12-1.0.0.1.jar",
+   "projectID": 268344,
+   "required": true
+  },
+  {
+   "desc": "GraveStone Mod",
+   "fileID": 2482114,
+   "filename": "gravestone-1.10.0.jar",
+   "projectID": 238551,
+   "required": true
+  },
+  {
+   "desc": "Architect",
+   "fileID": 2444355,
+   "filename": "Architect-MC1.12-1.2.0.6.jar",
+   "projectID": 264874,
+   "required": true
+  },
+  {
+   "desc": "Better Builder's Wands",
+   "fileID": 2443194,
+   "filename": "BetterBuildersWands-1.12-0.11.1.245-69d0d70.jar",
+   "projectID": 238403,
+   "required": true
+  },
+  {
+   "desc": "Angel of Vengeance",
+   "fileID": 2504958,
+   "filename": "AoV-1.12-0.8.1.jar",
+   "projectID": 266138,
+   "required": true
+  },
+  {
+   "desc": "TamModized",
+   "fileID": 2482183,
+   "filename": "TamModized-1.12.1-0.15.3.jar",
+   "projectID": 251733,
+   "required": true
+  }
+ ],
+ "manifestType": "minecraftModpack",
+ "manifestVersion": 1,
+ "minecraft": {
+  "modLoaders": [
+   {
+    "id": "14.23.1.2555",
+    "primary": true
+   }
+  ],
+  "version": "1.12.2"
+ },
+ "name": "Wrong About The Beginning",
+ "version": "1.0.0",
+ "author": "nmarshall23",
+}

@@ -1,0 +1,46 @@
+[
+{
+ "mob": "embers:ancient_golem", 
+ "structure": "stronghold",
+ "healthmultiply": 1.5,
+ "damageadd": 2,
+ "result": "default"
+},
+{
+ "hostile": true,
+ "structure": "stronghold",
+ "result": "deny"
+},
+{
+ "maxspawndist": 64.0,
+ "hostile": true,
+ "dimension": 0,
+ "minheight": 60,
+ "result": "deny"
+},
+{
+ "maxspawndist": 256.0,
+ "hostile": true,
+ "dimension": 0,
+ "minheight": 60,
+ "random": 0.75,
+ "result": "deny"
+},
+{
+ "maxspawndist": 640.0,
+ "mob": "minecraft:villager",
+ "result": "deny"
+},
+{
+ "structure": "Village",
+ "hostile": true,
+ "seesky": true,
+ "result": "deny"
+},
+{
+ "mob": ["embers:ancient_golem"], 
+ "seesky": true,
+ "random": 0.75,
+ "result": "deny"
+}
+]

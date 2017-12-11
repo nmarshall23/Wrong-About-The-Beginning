@@ -1,0 +1,37 @@
+{
+  "data": {
+    "environmentMatcher": " id\u003d0",
+    "transformers": [
+      {
+        "type": "replace",
+        "transformer": {
+          "id": "replace_8badcba5",
+          "sourceExpression": "minecraft:soul_sand",
+          "destination": [
+           {
+              "block": "minecraft:stone",
+              "metadata": 0,
+              "tileEntity": "null"
+            },
+            {
+              "block": "minecraft:stone",
+              "metadata": 1,
+              "tileEntity": "null"
+            },
+            {
+              "block": "minecraft:stone",
+              "metadata": 3,
+              "tileEntity": "null"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Remove Nether Rack In OverWorld",
+    "description": [
+      ""
+    ]
+  }
+}
